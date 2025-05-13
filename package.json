@@ -1,0 +1,33 @@
+{
+  "name": "netflix-gpt",
+  "version": "1.0.0",
+  "description": "This is Netflix GPT project by Ankit Kumar",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ASR-047/Netflix-GPT.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.6",
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.15.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlists": [
+    "last 2 versions"
+  ]
+}
