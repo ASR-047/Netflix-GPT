@@ -1,16 +1,10 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import Body from "./Components/Body";
 
-function App(){
-    return(
-        <div className="App">
-            <header className="App-header">
-                <p>Hello World</p>
-            </header>
-        </div>
-    )
+function App() {
+  return (
+    <Body/>
+  );
 }
 
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(parent)
+export default App;
