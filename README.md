@@ -10,5 +10,23 @@
     - Movie suggestion
         - movie lists * n
 # Netflix-GPT
-- Searchbar
-- Movie suggestion
+- Created app using parcel
+- configured tailwind css
+- Header
+- Routing of app
+- sign in form
+- sign up form
+- form validation
+- useRef
+- firebase setup
+- (To host your site with Firebase Hosting, you need the Firebase CLI (a command line tool))
+- firebase login, firebase init, firebase deploy (to deploy the application in firebase)
+- Create SignUp user account
+- Implemented sign in and sign up authentication login
+- created redux store
+- implemented the logic to sign in and sign out
+- Implemented update profile logic
+- Unsubscribed to the onAuthStateChanged call
+- Added harcoded vlues to the constant files
+- Registered TWDB Api & created an app and got access token
+- Got data from TWDB (now playing movie list) API
