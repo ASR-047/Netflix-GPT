@@ -30,3 +30,10 @@
 - Added harcoded vlues to the constant files
 - Registered TWDB Api & created an app and got access token
 - Got data from TWDB (now playing movie list) API
+- Created cutom hooks for nowPlayingMovies
+- Created movieSlice
+- then updated the store with movies data
+- Planend MainContainer & SecondaryContainer
+- Fetch Data for trailer video data and also cureated custom Hook to fetch data for trailer video
+- Embeded the youtube video and made it autoplay and mute
+- applied some tailwind css to make MainContainer looks good
