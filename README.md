@@ -37,3 +37,6 @@
 - Fetch Data for trailer video data and also cureated custom Hook to fetch data for trailer video
 - Embeded the youtube video and made it autoplay and mute
 - applied some tailwind css to make MainContainer looks good
+- created second container which includes movie list component and movie card component
+- created multiple movie list by fetching data for different categories from tmdb -
+- updated the store and applied css to second container and also created multiple custom hooks
