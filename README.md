@@ -40,3 +40,7 @@
 - created second container which includes movie list component and movie card component
 - created multiple movie list by fetching data for different categories from tmdb -
 - updated the store and applied css to second container and also created multiple custom hooks
+- Created GPT search page
+- created GPT search bar
+- implemented multilinguial feature in the gpt search page
+
